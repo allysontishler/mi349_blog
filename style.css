@@ -1,20 +1,21 @@
 html {
-    background: #e3e3e3;
+    background: #FFF3FD;
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
     padding: 40px;
     color: #242424;
-    border-top: 10px solid #242424;
-    background: #fff;
+    border-top: 10px solid #FDD1F7;
+    background: #FFF8FE;
 
 }
 
 nav {
     position: sticky;
     top: 0;
-    background-color: #FFF3FD
+    background-color: #FDD1F7
+    padding: 20px;
 }
 
 h1 {
@@ -22,8 +23,21 @@ h1 {
     margin: 0;
 }
 
+h2 {
+
+}
+
+h3 {
+
+}
+
 p {
     line-height: 1.4em;
+}
+
+img {
+    float: left;
+    margin-left: 10px;
 }
 
 #blog {
