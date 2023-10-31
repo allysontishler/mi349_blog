@@ -34,7 +34,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin: 0;
     color: #EF6262;
 }
@@ -42,7 +42,7 @@ h3 {
 h4 {
     font-size: 1em;
     margin: 0;
-    color: #FDD1F7;
+    color: #CD2D2D;
 }
 
 p {
@@ -61,7 +61,7 @@ img {
 
 
 #blog {
-    border-top: 5px dotted #FDD1F7;
+    border-top: 5px dotted #FF0000;
 }
 
 img {
@@ -90,18 +90,18 @@ img {
 }
 
 .table-data th, .table-data td {
-    border: 1px solid #FDD1F7;
+    border: 1px solid #CD2D2D;
     padding: 10px;
     text-align: center;
 }
 
 .table-data th {
-    background-color: #FFF8FE;
+    background-color: #EF6262;
 }
 
 /* Style alternating rows for better readability */
 .table-data tbody tr:nth-child(even) {
-    background-color: #FFF3FD;
+    background-color: #FFF8FE;
 }
 
 /* Add some spacing between table cells */
