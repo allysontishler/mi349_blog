@@ -74,7 +74,7 @@ img {
 }
 
 .vertical-list li {
-    display: block;
+    display: flex;
     margin-bottom: 10px;
 }
 
