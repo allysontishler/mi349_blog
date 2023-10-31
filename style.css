@@ -11,22 +11,14 @@ body {
 
 }
 
-nav {
-    position: sticky;
-    top: 0;
-    margin-bottom: 20px;
-}
-
-ul {
-    list-style: none;
-    margin: 0;
+.horizontal-nav {
+    list-style-type: none;
     padding: 0;
-    text-align: center;
 }
 
-li {
+.horizontal-nav {
     display: inline;
-    margin: 0px 20px;
+    margin-right: 20px;
 }
 
 h1 {
@@ -70,12 +62,12 @@ img {
     margin-left: 10px;
 }
 
-ul {
+.vertical-list {
     list-style-type: none;
     padding: 0;
 }
 
-li {
+.vertical-list li {
     display: block;
     margin-bottom: 10px;
 }
