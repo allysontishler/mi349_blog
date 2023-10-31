@@ -6,7 +6,7 @@ body {
     margin: 40px;
     padding: 40px;
     color: #242424;
-    border-top: 10px solid #FDD1F7;
+    border-top: 10px solid #EF6262;
     background: #FFF8FE;
 
 }
@@ -34,9 +34,15 @@ h2 {
 }
 
 h3 {
-    font-size: 1em;
+    font-size: 1.5em;
     margin: 0;
     color: #EF6262;
+}
+
+h4 {
+    font-size: 1em;
+    margin: 0;
+    color: #FDD1F7;
 }
 
 p {
