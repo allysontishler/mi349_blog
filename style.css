@@ -11,11 +11,6 @@ body {
 
 }
 
-body[color-scheme="light"] {
-    background-color: #FFF8FE;
-    color: #242424;
-}
-
 .horizontal-nav {
     list-style-type: none;
     padding: 0;
