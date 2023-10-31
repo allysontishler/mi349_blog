@@ -51,6 +51,11 @@ img {
     margin-right: 10px;
 }
 
+img {
+    width: 50%;
+    height: 50%;
+}
+
 #blog {
     border-top: 1px dotted #ccc;
 }
