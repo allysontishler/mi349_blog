@@ -56,10 +56,26 @@ img {
     height: 50%;
 }
 
+
 #blog {
     border-top: 1px dotted #ccc;
 }
 
 .blog-post {
     border-bottom: 1px dotted #ccc;
+}
+
+img {
+    float: right;
+    margin-left: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: block;
+    margin-bottom: 10px;
 }
