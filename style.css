@@ -79,6 +79,11 @@ img {
     width: 100%;
 }
 
+.table-data th {
+    text-align: center;
+    padding: 10px;
+}
+
 .table-data th, .table-data td {
     border: 1px solid #FDD1F7;
     padding: 10px;
@@ -93,31 +98,6 @@ img {
 /* Style alternating rows for better readability */
 .table-data tbody tr:nth-child(even) {
     background-color: #FFF3FD;
-}
-
-/* Style the user rating column with a progress bar */
-.table-data .user-rating {
-    position: relative;
-    padding: 0;
-}
-
-.table-data .user-rating span {
-    display: block;
-    background-color: #2ecc71;
-    color: #fff;
-    text-align: center;
-    width: 0;
-    transition: width 0.5s;
-}
-
-/* Hover effect for the user rating */
-.table-data .user-rating:hover span {
-    width: 100%;
-}
-
-/* Add a percent sign after user ratings */
-.table-data td:last-child:after {
-    content: '%';
 }
 
 /* Add some spacing between table cells */
