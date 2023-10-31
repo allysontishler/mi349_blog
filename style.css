@@ -72,3 +72,35 @@ img {
     display: block;
     margin-bottom: 10px;
 }
+
+.table-data {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table-data th, table-data td {
+    border: 1px solid #FDD1F7;
+    padding: 10px;
+    text-align: center;
+}
+
+.table-data th {
+    background-color: #FFF8FE;
+    color: #FFF3FD
+}
+
+.table-data tbody tr:nth-child(even) {
+    background-color: #FDD1F7
+}
+
+.table-data td:first-child {
+    text-align: center;
+}
+
+.table-data td:nth-child(2) {
+    text-align: center;
+}
+
+.table-data td {
+    padding: 10px;
+}
