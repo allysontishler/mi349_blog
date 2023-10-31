@@ -20,6 +20,8 @@ body {
     list-style-type: none;
     position: sticky;
     top: 0;
+    background-color: #EF6262;
+    width: 100%;
 }
 
 .horizontal-nav li {
