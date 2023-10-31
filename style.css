@@ -14,7 +14,7 @@ body {
 nav {
     position: sticky;
     top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
 }
 
 ul {
@@ -48,7 +48,7 @@ p {
 
 img {
     float: left;
-    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #blog {
