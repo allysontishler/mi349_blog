@@ -78,7 +78,7 @@ img {
     width: 100%;
 }
 
-.table-data th, table-data td {
+.table-data th, table-data td, table-data tr {
     border: 1px solid #FDD1F7;
     padding: 10px;
     text-align: center;
