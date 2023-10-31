@@ -12,8 +12,8 @@ body {
 }
 
 body[color-scheme="light"] {
-    background-color: #FFF3FD;
-    color: #FFF8FE;
+    background-color: #FFF8FE;
+    color: #242424;
 }
 
 .horizontal-nav {
