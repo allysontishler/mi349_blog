@@ -75,7 +75,6 @@ img {
 
 .vertical-list li {
     display: flex;
-    margin-bottom: 10px;
 }
 
 /* Apply some basic table styles */
