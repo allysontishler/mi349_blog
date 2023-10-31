@@ -11,6 +11,11 @@ body {
 
 }
 
+.nav-container {
+    position: relative;
+    z-index: 1;
+}
+
 .horizontal-nav {
     list-style-type: none;
     position: sticky;
