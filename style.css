@@ -29,11 +29,6 @@ body {
     margin-right: 20px;
 }
 
-.content-container {
-    height: 1000px;
-    overflow: auto;
-}
-
 h1 {
     font-size: 3em;
     margin: 0;
@@ -84,10 +79,14 @@ img {
 .vertical-list {
     list-style-type: none;
     padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .vertical-list li {
-    display: flex;
+    flex: 0 0 0 0;
+    margin: 0 5px;
 }
 
 /* Apply some basic table styles */
