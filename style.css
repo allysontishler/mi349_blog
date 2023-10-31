@@ -86,6 +86,7 @@ img {
 
 .vertical-list li {
     flex: 0 0 calc(33.3% - 10px);
+    /* used Mozilla Developer to form*/
     margin: 0 5px;
     display: flex;
     align-items: center;
