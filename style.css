@@ -16,7 +16,7 @@ body {
     padding: 0;
 }
 
-.horizontal-nav {
+.horizontal-nav li {
     display: inline;
     margin-right: 20px;
 }
@@ -58,8 +58,7 @@ img {
 }
 
 img {
-    float: right;
-    margin-left: 10px;
+    float: center;
 }
 
 .vertical-list {
