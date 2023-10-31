@@ -50,12 +50,13 @@ img {
 
 
 #blog {
-    border-top: 1px dotted #ccc;
+    border-top: 5px dotted #FDD1F7;
 }
 
 .blog-post {
-    border-bottom: 1px dotted #ccc;
+    border-bottom: 5px dotted #FDD1F7;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 img {
