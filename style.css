@@ -12,11 +12,13 @@ body {
 }
 
 .horizontal-nav {
+    position: sticky;
     list-style-type: none;
     padding: 0;
 }
 
 .horizontal-nav li {
+    position: sticky;
     display: inline;
     margin-right: 20px;
 }
