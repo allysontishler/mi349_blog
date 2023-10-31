@@ -24,14 +24,19 @@ body {
 h1 {
     font-size: 3em;
     margin: 0;
+    color: #CD2D2D;
 }
 
 h2 {
-
+    font-size: 2em;
+    margin: 0;
+    color: #CD2D2D;
 }
 
 h3 {
-
+    font-size: 1em;
+    margin: 0;
+    color: #EF6262;
 }
 
 p {
